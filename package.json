@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-app-todo",
+  "version": "8.9.4",
+  "description": "Packages JSON ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/AngularJS-App-Todo.git"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "Habtemariam Yohannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/AngularJS-App-Todo/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/AngularJS-App-Todo#readme"
+}
